@@ -1,6 +1,3 @@
-Certainly! Here's an example README file for your Wireguard Orchestration Service:
-
-```
 # Wireguard Orchestration Service
 
 The Wireguard Orchestration Service is a service that manages the synchronization of peers in an overlay network using the Wireguard VPN tunnel protocol.
