@@ -15,7 +15,7 @@ The Wireguard Orchestration Service is a service that manages the synchronizatio
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/g4lb/wireguard-orchestration-service.git
    ```
 
 2. Install the dependencies:
